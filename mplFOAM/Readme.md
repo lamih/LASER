@@ -1,3 +1,4 @@
+mplFOAM
 =======
 
 Some Python functions to plot OpenFOAM data with Matplotlib using paraview.simple and numpy_support from vtk.util.
